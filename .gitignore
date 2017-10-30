@@ -1,0 +1,9 @@
+bind.keys
+actionfile.hosts
+db.0
+db.127
+db.255
+db.empty
+db.local
+rndc.key
+db.root
