@@ -10,6 +10,7 @@
 #zone log-ingestion.samsungacr.com {type master; file "/etc/bind/actionfile.hosts";};
 #zone samsungacr.com {type master; file "/etc/bind/actionfile.hosts";};
 #zone samsungelectronics.com {type master; file "/etc/bind/actionfile.hosts";};
+zone xpu.samsungelectronics.com {type master; file "/etc/bind/actionfile.hosts";};
 
 // Porn sites.
 zone topxlive.com {type master; file "/etc/bind/actionfile.hosts";};
